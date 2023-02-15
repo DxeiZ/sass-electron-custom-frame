@@ -11,7 +11,7 @@
   "author": "Erato",
   "license": "MIT",
   "dependencies": {
-    "electron": "^18.3.7",
+    "electron": "^23.0.0",
     "node-sass": "^7.0.0"
   }
 }
