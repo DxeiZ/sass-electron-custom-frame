@@ -13,5 +13,7 @@
   "dependencies": {
     "electron": "^23.0.0",
     "node-sass": "^7.0.0"
+    "electron": "^18.3.7",
+    "node-sass": "^7.0.3"
   }
 }
